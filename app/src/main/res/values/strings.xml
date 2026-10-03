@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Banque Misr</string>
+    <string name="forgot">Forgot username/password?</string>
+    <string name="password">Password</string>
+    <string name="email">Phone or Email</string>
+    <string name="login">Login</string>
+    <string name="our_products">Our\nproducts</string>
+    <string name="exchange_rate">Exchange\nrate</string>
+    <string name="security_tips">Security\ntips</string>
+    <string name="nearest_branch_or_atm">Nearest\nbranch or\nATM</string>
+    <string name="need_help">Need Help?</string>
+    <string name="contact_us">Contact us</string>
+</resources>

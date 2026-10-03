@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Banque Misr</string>
+    <string name="forgot">نسيت اسم المستخدم/كلمة المرور؟</string>
+    <string name="password">كلمة المرور</string>
+    <string name="email">اسم المستخدم</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="our_products">منتجاتنا</string>
+    <string name="exchange_rate">سعر الصرف</string>
+    <string name="security_tips">نصائح امنية</string>
+    <string name="nearest_branch_or_atm">اقرب فرع او ماكينة صرف</string>
+    <string name="need_help">مزيد من المساعدة</string>
+    <string name="contact_us">اتصل بنا</string>
+
+</resources>
